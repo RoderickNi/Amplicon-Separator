@@ -4,6 +4,7 @@ A pipline for  amplicons from different population separation  (Suitable for ill
 ## step1:  
 - Dependencies:   
 <b>pandaseq 2.11</b>    
+
 Using *Overlapper.py* for overlapping splicing    
 Please input pair-end sequencing result <fq1> & <fq2> and the path of <output.fa>
   
