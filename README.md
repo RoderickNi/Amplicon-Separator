@@ -14,5 +14,5 @@ Please input pair-end sequencing result fastq1,fastq2 and the path of <output.fa
 <b>fastx_toolkit 0.0.14</b>  
 
 Using *Separator.bash* for amplicons separating    
-Please input <output.fa from step1> and <primers file>    
+Please input <output.fa from step1> and primers file    
 The formate of primers file was show in *Merge_DNA_primer.txt*
