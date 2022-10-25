@@ -15,4 +15,4 @@ Please input pair-end sequencing result fastq1,fastq2 and the path of <output.fa
 
 Using *Separator.bash* for amplicons separating    
 Please input <output.fa from step1> and <primers file>    
-The formate of <primers file> was show in *Merge_DNA_primer.txt*
+The formate of primers file was show in *Merge_DNA_primer.txt*
